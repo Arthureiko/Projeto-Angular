@@ -1,0 +1,12 @@
+.product {
+  padding: 16px;
+}
+form {
+  display: flex;
+  margin-top: 15px;
+  flex-direction: column;
+}
+
+button {
+  margin-rigth: 10px;
+}
